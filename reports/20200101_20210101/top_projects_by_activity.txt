@@ -1,0 +1,101 @@
+Top projects by activity:
+1) dotnet (microsoft.com/net) activity: 563912
+2) Kubernetes (kubernetes.io) activity: 555977
+3) Elasticsearch (elastic.co/products/elasticsearch) activity: 505700
+4) Linux (kernel.org) activity: 502455
+5) OpenShift (openshift.com) activity: 390344
+6) Google APIs (googleapis.github.io) activity: 328482
+7) pytorch (pytorch.org) activity: 255358
+8) Rust (rust-lang.org) activity: 254796
+9) Flutter (flutter.io) activity: 227468
+10) CMS Offline Software (cms-sw.github.io) activity: 219366
+11) TensorFlow (tensorflow.org) activity: 216001
+12) Odoo (odoo.com) activity: 197008
+13) Lombiq activity: 196465
+14) Home Assistant (home-assistant.io) activity: 191796
+15) NixOS (nixos.org) activity: 190093
+16) React (facebook.com) activity: 189407
+17) Homebrew (brew.sh) activity: 187694
+18) swedishtechevents activity: 187486
+19) Nextcloud (nextcloud.com) activity: 187452
+20) Caseflow (va.gov) activity: 166074
+21) PingCAP (github.com/pingcap) activity: 148941
+22) Node.js (nodejs.org) activity: 143181
+23) Azure SDKs (azure.microsoft.com) activity: 142608
+24) Eclipse (eclipse.org) activity: 142448
+25) conda-forge (conda-forge.org) activity: 137178
+26) Datadog (datadog.com) activity: 129057
+27) Terraform (terraform.io) activity: 128279
+28) Ansible (ansible.com) activity: 126402
+29) OpenTelemetry (opentelemetry.io) activity: 123808
+30) getsentry activity: 115362
+31) input-output-hk activity: 113324
+32) PaddlePaddle (paddlepaddle.org) activity: 102415
+33) Cockroach Labs (cockroachlabs.com) activity: 101827
+34) docker-library activity: 99922
+35) Magento (magento.com/home) activity: 99854
+36) WordPress activity: 98592
+37) awslabs activity: 96592
+38) apple activity: 94950
+39) Ethereum (ethereum.org) activity: 94525
+40) SS13 (tgstation13.org) activity: 90102
+41) Envoy (www.envoyproxy.io) activity: 89643
+42) Godot Engine (godotengine.org) activity: 88659
+43) Grafana Labs (grafana.com) activity: 88335
+44) paritytech activity: 88003
+45) Mattermost (mattermost.org) activity: 86769
+46) bcgov activity: 85082
+47) AdguardTeam activity: 85047
+48) istio activity: 84648
+49) trailofbits activity: 84305
+50) python (www.python.org) activity: 84085
+51) firebase activity: 83189
+52) Zephyr (www.zephyrproject.org) activity: 83157
+53) cagov activity: 83138
+54) sourcegraph activity: 83047
+55) Knative (knative.dev) activity: 81455
+56) suttacentral activity: 80981
+57) electron (electronjs.org) activity: 80951
+58) WP Calypso (developer.wordpress.com/calypso) activity: 80727
+59) Government Digital Service (gds.blog.gov.uk) activity: 80271
+60) SmartThingsCommunity activity: 78859
+61) mozilla-mobile activity: 78633
+62) NVIDIA activity: 76443
+63) xamarin activity: 75904
+64) daos-stack activity: 72505
+65) aws-amplify activity: 71922
+66) openfoodfacts activity: 71621
+67) leanprover-community activity: 71349
+68) oppia activity: 70938
+69) ODOO (odoo-community.org) activity: 70759
+70) bitnami activity: 70378
+71) woocommerce activity: 70134
+72) tencentyun activity: 70108
+73) adobe activity: 68806
+74) pandas-dev activity: 68785
+75) Mozilla (mozilla.org) activity: 67741
+76) AMP (ampproject.org) activity: 67642
+77) Dart (dartlang.org) activity: 67567
+78) navikt activity: 66748
+79) VS Code (code.visualstudio.com) activity: 66614
+80) prisma activity: 66452
+81) rapidsai activity: 66024
+82) Brave Software (brave.com) activity: 65926
+83) Gatsby (gatsbyjs.org) activity: 65187
+84) kubeflow activity: 64129
+85) Ant Design (ant.design) activity: 64014
+86) containers activity: 64009
+87) gnosis activity: 63352
+88) quarkusio activity: 63249
+89) InfluxData (influxdata.com) activity: 62491
+90) Angular (angular.io) activity: 61767
+91) openHAB (openhab.org) activity: 61194
+92) microsoftgraph activity: 60336
+93) filecoin-project activity: 60298
+94) Spring (spring.io/projects) activity: 58865
+95) ownCloud (oowncloud.org) activity: 58766
+96) gRPC (grpc.io) activity: 58619
+97) aws/aws-cdk activity: 58573
+98) Hyperledger (hyperledger.org) activity: 58491
+99) Bazel (bazel.build) activity: 58095
+100) oracle activity: 58093

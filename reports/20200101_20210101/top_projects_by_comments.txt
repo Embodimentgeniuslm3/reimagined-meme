@@ -1,0 +1,101 @@
+Top projects by comments:
+1) Kubernetes (kubernetes.io) comments: 432497
+2) Linux (kernel.org) comments: 423151
+3) dotnet (microsoft.com/net) comments: 352830
+4) Elasticsearch (elastic.co/products/elasticsearch) comments: 352493
+5) OpenShift (openshift.com) comments: 285031
+6) Rust (rust-lang.org) comments: 200230
+7) Flutter (flutter.io) comments: 173624
+8) FreeBSD (freebsd.org) comments: 150300
+9) Home Assistant (home-assistant.io) comments: 134100
+10) TensorFlow (tensorflow.org) comments: 122859
+11) NixOS (nixos.org) comments: 119940
+12) pytorch (pytorch.org) comments: 118577
+13) React (facebook.com) comments: 109792
+14) CMS Offline Software (cms-sw.github.io) comments: 107766
+15) PingCAP (github.com/pingcap) comments: 99848
+16) Azure SDKs (azure.microsoft.com) comments: 91049
+17) Nextcloud (nextcloud.com) comments: 90449
+18) Eclipse (eclipse.org) comments: 87635
+19) conda-forge (conda-forge.org) comments: 80724
+20) OpenTelemetry (opentelemetry.io) comments: 80187
+21) Google APIs (googleapis.github.io) comments: 76710
+22) Terraform (terraform.io) comments: 73698
+23) Ansible (ansible.com) comments: 73099
+24) Magento (magento.com/home) comments: 70435
+25) apple comments: 68786
+26) Godot Engine (godotengine.org) comments: 68148
+27) Node.js (nodejs.org) comments: 66453
+28) Caseflow (va.gov) comments: 66315
+29) istio comments: 63935
+30) Cockroach Labs (cockroachlabs.com) comments: 61930
+31) SS13 (tgstation13.org) comments: 61094
+32) Odoo (odoo.com) comments: 60904
+33) Knative (knative.dev) comments: 60804
+34) oppia comments: 60420
+35) WordPress comments: 59785
+36) Homebrew (brew.sh) comments: 57926
+37) Zephyr (www.zephyrproject.org) comments: 57823
+38) python (www.python.org) comments: 56966
+39) Envoy (www.envoyproxy.io) comments: 56877
+40) pandas-dev comments: 55328
+41) daos-stack comments: 55097
+42) getsentry comments: 54925
+43) awslabs comments: 54089
+44) VS Code (code.visualstudio.com) comments: 52479
+45) Ethereum (ethereum.org) comments: 51966
+46) Datadog (datadog.com) comments: 51452
+47) Mattermost (mattermost.org) comments: 51099
+48) Grafana Labs (grafana.com) comments: 50550
+49) kubeflow comments: 50338
+50) PaddlePaddle (paddlepaddle.org) comments: 50302
+51) containers comments: 50146
+52) rapidsai comments: 49716
+53) NVIDIA comments: 49479
+54) xamarin comments: 48804
+55) quarkusio comments: 48519
+56) aws-amplify comments: 47731
+57) mozilla-mobile comments: 46455
+58) openHAB (openhab.org) comments: 45329
+59) firebase comments: 44820
+60) Angular (angular.io) comments: 44755
+61) ODOO (odoo-community.org) comments: 44536
+62) input-output-hk comments: 43795
+63) aws/aws-cdk comments: 43435
+64) ray-project comments: 42826
+65) AdguardTeam comments: 42804
+66) paritytech comments: 41725
+67) WP Calypso (developer.wordpress.com/calypso) comments: 41568
+68) KubeVirt (kubevirt.io) comments: 41273
+69) PrestaShop comments: 40107
+70) Joomla (joomla.org) comments: 39688
+71) Go (golang.org) comments: 39451
+72) Dart (dartlang.org) comments: 38849
+73) Gatsby (gatsbyjs.org) comments: 38646
+74) Ant Design (ant.design) comments: 38032
+75) AMP (ampproject.org) comments: 37879
+76) libra comments: 37226
+77) bitcoin comments: 36488
+78) Hyperledger (hyperledger.org) comments: 36281
+79) Symfony (symfony.com) comments: 35261
+80) OpenWrt (openwrt.org) comments: 35047
+81) huggingface comments: 34729
+82) woocommerce comments: 34719
+83) gRPC (grpc.io) comments: 34337
+84) OpenSSL (openssl.org) comments: 34311
+85) Azure REST API (github.com/Azure/azure-rest-api-specs) comments: 34030
+86) scylladb comments: 34002
+87) microsoftgraph comments: 33260
+88) PowerShell (microsoft.com/powershell) comments: 32940
+89) Tekton (tekton.dev) comments: 32854
+90) vuejs (vuejs.org) comments: 32426
+91) pypa comments: 32401
+92) Brave Software (brave.com) comments: 32331
+93) sourcegraph comments: 32119
+94) cilium comments: 32116
+95) ARMmbed comments: 32019
+96) apache/airflow comments: 31877
+97) Helm (helm.sh) comments: 31872
+98) conan-io comments: 31389
+99) gnosis comments: 31386
+100) RIOT-OS comments: 31029
