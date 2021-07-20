@@ -1,0 +1,189 @@
+name,project
+01org,=SKIP
+=External,=SKIP
+Azure,=SKIP
+GoogleCloudPlatform,=SKIP
+Microsoft,=SKIP
+apache,=SKIP
+aws,=SKIP
+google,=SKIP
+openSUSE,=SKIP
+openstack,=SKIP
+w3c,=SKIP
+ApacheFriends,XAMPP
+Ar1i/PokemonGo-Bot,PokemonGoF
+AusDTO,Digital Transformation Office
+CartoDB,CARTO
+ChromeDevTools,Chromium
+ChromeExtensionStore,Chromium
+ChromiumWebApps,Chromium
+CleverRaven,Cataclysm-DDA
+DataDog,Datadog
+GoogleChrome,Chromium
+IBM-Bluemix,IBM Bluemix
+KSP-CKAN,CKAN
+MarlinFirmware,Marlin
+MobileChromeApps,Chromium
+OfficeDev,Office Developer
+OpenStack-mobile,OpenStack Mobile
+OpenStackCookbook,OpenStack Community
+OpenStackweb,OpenStack Community
+ParsePlatform,Parse
+Particular,NServiceBus
+Plailect/Guide,3DS Guide
+ResurrectionRemix,Resurrection Remix
+TheOdinProject,The Odin Project
+Yoast,Yoast SEO
+acemod,ACE Mod
+akka,Akka
+alibaba,Alibaba
+alphagov,Government Digital Service
+ampproject,AMP
+ansible,Ansible
+ant-design,Ant Design
+apache-spark,Apache Spark
+apache-spark-on-k8s,Apache Spark
+apachecloudstack,Apache CloudStack
+apacheignite,Apache Ignite
+aspnet,ASP.net
+atom,Atom
+auth0,Auth0
+betaflight,Betaflight
+boostorg,Boost
+brave,Brave Software
+broadinstitute,Broad Institute
+c4cs,Computing for Computer Scientists
+cakephp,CakePHP
+caskroom,Homebrew
+cfpb,Consumer Financial Protection Bureau
+chef,Chef
+chrome-enhanced-history,Chromium
+chromium,Chromium
+chromiumify,Chromium
+cloudfoundry,Cloud Foundry
+cloudfoundry-attic,Cloud Foundry
+cloudfoundry-community,Cloud Foundry
+cloudfoundry-incubator,Cloud Foundry
+cloudfoundry-samples,Cloud Foundry
+cms-sw,CMS Offline Software
+cockroachdb,Cockroach Labs
+codecombat,CodeCombat
+containernetworking,CNI
+coredns,CoreDNS
+coreos,CoreOS
+d3athrow/vgstation13,vgstation13
+dart-lang,Dart
+department-of-veterans-affairs,Caseflow
+dmlc,DMLC
+docker,Docker
+driftyco,Ionic
+e-government-ua,Основной репозиторий
+eclipse,Eclipse
+elastic,Elasticsearch
+elasticsearch,Elasticsearch
+elsys,ELSYS
+emberjs,Ember.js
+ethcore,Parity
+ethereum,Ethereum
+fabric8io,fabric8
+facebook,React
+fluent,Fluentd
+flutter,Flutter
+github,GitHub
+gitlab,GitLab
+gitlabhq,GitLab
+godotengine,Godot Engine
+grpc,gRPC
+grpc-ecosystem,gRPC
+guardian,The Guardian
+home-assistant,Home Assistant
+hyperledger,Hyperledger Project
+influxdata,InfluxData
+influxdb,InfluxDB
+iron-io,Iron.io
+joomla,Joomla
+jsdelivr,jsDelivr
+keybase,Keybase
+kubernetes,Kubernetes
+kubernetes-client,Kubernetes
+kubernetes-incubator,Kubernetes
+laravel,Laravel
+letsencrypt,Let's Encrypt
+linkedin,LinkedIn
+linkerd,Linkerd
+linux-sunxi,Linux sunxi
+magento,Magento
+mantidproject,Mantid
+mapbox,Mapbox
+mapsme,MAPS.ME
+mattermost,Mattermost
+melpa,MELPA
+mesos,Apache Mesos
+mesosphere,Apache Mesos
+meteor,Meteor
+mitodl,MIT Office of Digital Learning
+mozilla,Mozilla
+mozilla-services,Mozilla Services
+neveragaindottech,neveragain.tech
+nextcloud,Nextcloud
+nodejs,Node.js
+nylas,Nylas
+odoo,Odoo
+openhab,openHAB
+openshift,OpenShift
+openssl,OpenSSL
+openstack-charmers,OpenStack Charms
+openstack-hyper-v,OpenStack Hyper-V
+openstack-kr,OpenStack Korean
+openstack-packages,RDO
+openstack-snaps,OpenStack Snaps
+openstacknetsdk,OpenStack NET SDK
+opentracing,OpenTracing
+openwrt,OpenWrt
+osmandapp,Osmand
+owncloud,ownCloud
+pingcap,PingCAP
+pivotal-cf,Pivotal Cloud Foundry
+prometheus,Prometheus
+rackt,React
+rails,Ruby on Rails
+rapid7,Rapid7
+rust-lang,Rust
+sakaiproject,Sakai
+saltstack,SaltStack
+sensu,Sensu
+sequelize,Sequelize
+serverless,Serverless Framework
+servo,The Servo Browser Engine
+skillcrush,Skillcrush
+spotify,Spotify
+spree,Spree
+swagger-api,Swagger
+symfony,Symfony
+telerik,Telerik
+tgstation,SS13
+thephpleague,League of Extraordinary Packages
+twitter,Twitter
+uber,Uber Open Source
+vgstation-coders,vgstation13
+vmware,VMware
+voidlinux,The Void distribution
+voxpupuli,Vox Populi
+w3c,W3C
+wireapp,Wire Swiss GmbH
+wix,WiX
+wordpress-mobile,WordPress-mobile
+wso2,WSO2
+xbmc,Team Kodi
+yarnpkg,yarn
+yogstation13,Yogstation13
+zalando,Zalando
+zendframework,Zend Framework
+# cloudfoundry,Cloud Foundry
+# cloudfoundry-attic,Cloud Foundry Attic
+# cloudfoundry-community,Cloud Foundry Community
+# cloudfoundry-incubator,Cloud Foundry Incubator
+# cloudfoundry-samples,Cloud Foundry Samples
+# kubernetes-cluster-automation,Kubernetes
+# kubernetes-contrib,Kubernetes
+# kubernetes-ui,Kubernetes
