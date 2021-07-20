@@ -1,0 +1,13 @@
+project
+/BOSH$/
+/^cloudfoundry$|^cloud foundry$/i
+/^libreoffice$/i
+/^chromium$|^chromium blink/i
+/^homebrew$/i
+/^webkit$/i
+/^linux kernel$/i
+/^gitlab$/i
+/^openstack |^open stack /i
+/^Apache /
+/^openSUSE /
+FreeBSD

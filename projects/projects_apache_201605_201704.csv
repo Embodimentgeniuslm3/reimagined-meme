@@ -1,0 +1,27 @@
+org,repo,activity,comments,prs,commits,issues,authors,project,url
+apache,incubator-metron+tinkerpop+incubator-hawq+activemq-artemis+incubator-systemml+arrow+sling+cxf+reef+incubator-eagle+infrastructure-puppet+incubator-quickstep+apex-malhar+ofbiz+phoenix+logging-log4j2+jackrabbit-oak+incubator-mynewt-core+incubator-trafficcontrol+groovy+accumulo+drill+falcon+karaf+zookeeper+jena+incubator-weex+wicket+apex-core+calcite+commons-lang+subversion+couchdb+activemq+maven+tika+incubator-predictionio+incubator-fineract+kudu+cordova-lib+samza+incubator-atlas+cordova-ios+avro+bigtop+curator+couchdb-documentation+cordova-docs+qpid-proton+cordova-android+incubator-impala+flume+cordova-plugin-inappbrowser+incubator-ranger+aurora+lens+incubator-kudu,81301,24311,19604,37302,84,2068,Apache (other),apache.org
+apache+apache-spark-on-k8s,spark+spark+spark-website+kubernetes-HDFS+ansible,54899,37637,10526,6545,191,547,Apache Spark,spark.apache.org
+apache,kafka+kafka-site,13367,8180,3419,1768,0,244,Apache Kafka,kafka.apache.org
+apache,camel,6887,2141,1397,3349,0,221,Apache Camel,camel.apache.org
+apache,incubator-airflow,5718,3257,1602,741,118,213,Airflow,airflow.incubator.apache.org
+apache,mesos,2741,167,256,2318,0,203,Apache Mesos,mesos.apache.org
+apache,flink+flink-web,13103,7769,3659,1675,0,200,Apache Flink,flink.apache.org
+apache,cloudstack+libcloud,13633,10926,1936,771,0,198,Apache CloudStack,cloudstack.apache.org
+apache,incubator-beam+beam+beam-site+incubator-beam-site,19349,11336,5592,2421,0,194,Apache Beam,beam.apache.org
+apache,zeppelin+incubator-zeppelin,15263,9153,4530,1580,0,187,Apache Zeppelin,zeppelin.apache.org
+apache,cassandra,2357,43,63,2251,0,163,Apache Cassandra,cassandra.apache.org
+apache,hive+incubator-hivemall,3003,322,300,2381,0,159,Apache Hive,hive.appache.org
+apache,hbase,3314,29,49,3236,0,158,Apache HBase,hbase.apache.org
+apache,hadoop,6312,86,226,6000,0,155,Apache Hadoop,hadoop.apache.org/core
+apache+apacheignite,ignite+documentation+yardstick-ignite+drools-ignite+zeppelin-demo,7559,101,2219,5239,0,145,Apache Ignite,ignite.apache.org
+apache,nifi+nifi-minifi-cpp+nifi-minifi+nifi-site,9260,4694,2999,1567,0,140,Apache NiFi,nifi.apache.org
+apache,ambari,7973,21,33,7919,0,138,Apache Ambari,ambari.apache.org
+apache,storm,5788,3274,1452,1062,0,123,Apache Storm,storm.apache.org
+apache,trafficserver,12504,9118,1951,1211,224,123,Apache Traffic Server,trafficserver.apache.org
+apache,lucene-solr+lucenenet,5025,389,321,4315,0,114,Apache Lucene/Solr,git.apache.org/lucene-solr.git
+apache,incubator-carbondata,6445,3986,1757,702,0,104,Apache CarbonData,carbondata.apache.org
+apache,incubator-geode+geode+geode-native,3572,684,886,2002,0,93,Apache Geode,geode.apache.org
+apache,incubator-trafodion,5858,4061,1249,548,0,72,Apache Trafodion,git.apache.org/incubator-trafodion.git
+apache,thrift,1552,788,562,202,0,70,Apache Thrift,thrift.apache.org
+apache,httpd+couchdb-chttpd+httpd-docs-build,2557,158,104,2295,0,66,Apache HTTP Server,httpd.apache.org
+apache,kylin,2524,23,47,2454,0,59,Apache Kylin,kylin.apache.org
